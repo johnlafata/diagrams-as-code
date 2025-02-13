@@ -1,2 +1,5 @@
 .DS_STORE
 venv
+__pycache__
+platform_diagram/__pycache__
+platform_diagram/platform_components/__pycache__

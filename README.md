@@ -13,9 +13,11 @@ pip install diagrams
 
 ### exercise examples
 ```bash
+cd example
 python knowledgeBase-application-diagram.py
 ```
 
 ```bash
+cd example
 python aws-diagram.py 
 ```
